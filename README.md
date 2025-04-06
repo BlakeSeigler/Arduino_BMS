@@ -1,2 +1,2 @@
 # Arduino_BMS
-This project is for a BMS System I am going to design and get working on my own
+This project is for a BMS System designed using several sensors and 3.7 V batteries.
